@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1 align='center'>Hi there 👋 This is Stanislav Chegodaev or ClickDino<h1>
 
 <!--
 **ClickDino/ClickDino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
