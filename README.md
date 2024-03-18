@@ -4,6 +4,12 @@ Hi 👋 My name is Stanislav or ClickDino
 a beginner front-end developer
 ------------------------------
 
+<p align="center">
+ <img width="600" src="assets/github-snake.svg" alt="snake"/>
+</p>
+
+-----------------------------
+
 I'm a beginner web developer. My journey in IT began at LoftSchool, where I took a large course on front-end development. After completing the course in February 2023, there was a period where I tried myself in many directions, tried to study the C language, Python, tried my hand at data science, but most of all I was hooked on web development! Since October 2023, I have been studying web development on my own.
 
 * 🌍  I'm based in Russia, Moscow
