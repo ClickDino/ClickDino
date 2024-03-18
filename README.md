@@ -1,14 +1,13 @@
-Hi 👋 My name is Stanislav or ClickDino
-==============================================================================================================================================
+<h1 align="center">Hi 👋 My name is Stanislav or ClickDino</h1>
 
-a beginner front-end developer
-------------------------------
+<h2 align="center">a beginner front-end developer</h2>
+
 
 <p align="center">
  <img width="600" src="github-snake.svg" alt="snake"/>
 </p>
 
------------------------------
+---
 
 I'm a beginner web developer. My journey in IT began at LoftSchool, where I took a large course on front-end development. After completing the course in February 2023, there was a period where I tried myself in many directions, tried to study the C language, Python, tried my hand at data science, but most of all I was hooked on web development! Since October 2023, I have been studying web development on my own.
 
