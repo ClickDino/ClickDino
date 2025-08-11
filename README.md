@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋 My name is Stanislav or ClickDino</h1>
 
-<h2 align="center">a beginner front-end developer</h2>
-
-
 <p align="center">
  <img width="800" src="github-snake.svg" alt="snake"/>
 </p>
