@@ -6,8 +6,7 @@
 
 ---
 
-<p align="center">At this stage, I want to work as a Junior QA Engineer.<br>
-Hi, my name is Stas. Since mid-2025, I've been studying and practicing to become a tester. I'm glad I've finally found a field in which I can successfully develop. As a tester, I see the potential to make the digital world, at the very least, more welcoming for everyone. In this portfolio, I'd like to share my knowledge of testing and demonstrate the practical skills I've gained through courses, self-study, and on the job. I'm determined to continue developing in this field.</p>
+<p align="center">Hi, my name is Stas. Since mid-2025, I've been studying and practicing to become a tester. I'm glad I've finally found a field in which I can successfully develop. As a tester, I see the potential to make the digital world, at the very least, more welcoming for everyone. In this portfolio, I'd like to share my knowledge of testing and demonstrate the practical skills I've gained through courses, self-study, and on the job. I'm determined to continue developing in this field.</p>
 
 * 🌍  I'm based in Russia, Moscow
 * ✉️  You can contact me at [Telegram](https://t.me/dino_dollar)
