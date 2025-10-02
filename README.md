@@ -6,7 +6,7 @@
 
 ---
 
-<p align="center">At this stage, I want to work as a Junior QA Engineer.
+<p align="center">At this stage, I want to work as a Junior QA Engineer.<br>
 My journey in IT began at LoftSchool, where I completed an extensive course in front-end development. After completing the course in February 2023, I had to leave further education and devote myself entirely to my family. In 2025, I decided to study testing and successfully completed the Yandex.Practicum course for the position of Junior QA Engineer. I am now actively looking for a job where I can develop my skills and contribute to the team.</p>
 
 * 🌍  I'm based in Russia, Moscow
