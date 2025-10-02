@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 My name is Stanislav or ClickDino</h1>
+<h1 align="center">Привет 👋 меня зовут Станислав или ClickDino</h1>
 
 <p align="center">
  <img width="800" src="github-snake.svg" alt="snake"/>
@@ -6,9 +6,8 @@
 
 ---
 
-<p align="center">Hi, my name is Stas. Since mid-2025, I've been studying and practicing to become a tester. I'm glad I've finally found a field in which I can successfully develop. As a tester, I see the potential to make the digital world, at the very least, more welcoming for everyone. In this portfolio, I'd like to share my knowledge of testing and demonstrate the practical skills I've gained through courses, self-study, and on the job. I'm determined to continue developing in this field.</p>
+<p align="center">Привет, меня зовут Стас. С середины 2025 года я учусь и практикуюсь, чтобы стать тестировщиком. Я рад, что наконец-то нашёл сферу, в которой смогу успешно развиваться. Как тестировщик, я вижу потенциал сделать цифровой мир, как минимум, более гостеприимным для всех. В этом портфолио я хотел бы поделиться своими знаниями в области тестирования и продемонстрировать практические навыки, полученные на курсах, самостоятельном обучении и на практике. Я полон решимости продолжать развиваться в этой области.</p>
 
-* 🌍  I'm based in Russia, Moscow
 * ✉️  You can contact me at [Telegram](https://t.me/dino_dollar)
 
 <h3 align="left">Skills</h3>
