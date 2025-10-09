@@ -12,7 +12,7 @@
 <h3 align="left">Инструменты и технологии</h3>
 
 <p align="left">
-<a href="https://code.visualstudio.com/" target="_blank">
+<a href="https://code.visualstudio.com/" target="blank">
 <img src="https://www.svgrepo.com/show/374171/vscode.svg" width="50" height="50" alt="VS Code"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/452228/html-5.svg" width="50" height="50" alt="HTML5" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank">
